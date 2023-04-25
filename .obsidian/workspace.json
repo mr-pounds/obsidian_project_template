@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "83b4d0480ce26d04",
+    "type": "split",
+    "children": [
+      {
+        "id": "986935b9912f530c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b0aada2dffb0537",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa034be1b60c7c42",
+    "type": "split",
+    "children": [
+      {
+        "id": "53c7736038e16d81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9de484d78da2de65",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd57527e0d2df58d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "122eea837e4b68e1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b17660d3fe01aace",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4c822697d78c2267",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee6f77957c25e1dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bd987b5a7b019ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
+          },
+          {
+            "id": "e25e1144a9ce0f78",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9ab9bd2017084f91",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "c014e380b864b2b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99a514751b6d9416",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "58cb43ac020aea36",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "8b0aada2dffb0537",
+  "lastOpenFiles": [
+    "0 Unsorted/Cooling pad.md",
+    "Home.md",
+    "4 Extra/标签系统.md",
+    "0 Unsorted/Roadmap.md",
+    "4 Extra/Templates/Template, Meeting.md",
+    "4 Extra/Templates/Template, PRD.md",
+    "4 Extra/Templates/Template, Metadata.md",
+    "0 Unsorted/About Unsorted.md",
+    "1 Demands",
+    "4 Extra/Templates",
+    "2 Versions",
+    "3 Sources",
+    "4 Extra",
+    "Attachments",
+    "0 Unsorted"
+  ]
+}
