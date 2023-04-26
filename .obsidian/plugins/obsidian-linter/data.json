@@ -223,7 +223,7 @@
   "displayChanged": true,
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [
-    "Extra"
+    "5 Extra"
   ],
   "linterLocale": "system-default",
   "logLevel": 4,

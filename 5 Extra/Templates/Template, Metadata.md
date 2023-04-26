@@ -1,4 +1,4 @@
-up:: 
+dates:: {{date}}
 tags:: 
 
 # {{title}}
